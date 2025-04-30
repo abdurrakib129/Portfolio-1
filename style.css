@@ -426,6 +426,10 @@ span {
     #menu-icon {
         display: block;
     }
+     body{
+        overflow-x: hidden;
+        max-width: 768px;
+    }
 
     .navbar {
         position: absolute;
